@@ -1,9 +1,8 @@
 # Orewa Namikaze Minato 👋
 
-Web Security Reseacher | Security Enthusiast | Penetration Tester | CTF Player   
-Passionate about Ethical Hacking, and Web Security
+<h4 align="center">Web Security Reseacher | Security Enthusiast | Penetration Tester | CTF Player</h4>  
 
----
+
 
 ##  About Me
 
@@ -35,8 +34,8 @@ Passionate about Ethical Hacking, and Web Security
 ## GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=minato500&show_icons=true&count_private=true&hide_border=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=minato500&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=minato500&show_icons=true&theme=react&count_private=true&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=minato500&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
