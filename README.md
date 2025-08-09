@@ -2,8 +2,6 @@
 
 <h2 align="center">Web Security Reseacher | Security Enthusiast | Penetration Tester | CTF Player</h2>  
 
-
-
 ##  About Me
 
 - Cyber Security Student
