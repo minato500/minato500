@@ -1,6 +1,6 @@
 # Orewa Namikaze Minato 👋
 
-<h4 align="center">Web Security Reseacher | Security Enthusiast | Penetration Tester | CTF Player</h4>  
+<h2 align="center">Web Security Reseacher | Security Enthusiast | Penetration Tester | CTF Player</h2>  
 
 
 
