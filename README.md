@@ -61,8 +61,8 @@
 ## Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harish-kumar-n50"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://minato500.github.io"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Firefox&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harish-kumar-n50"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://minato500.github.io"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=Firefox&logoColor=white" /></a>
 </p>
 
 ---
