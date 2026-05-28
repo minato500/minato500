@@ -18,22 +18,21 @@
 
 </div> 
 
-## Whomai
+## Whoami
 
 <div>
   <img align="right" src="pikachu.png" width="170" alt="Pikachu" />
-  <p>
-    <b><code>┌──(minato㉿minato500)-[~]</code></b><br>
-    <b><code>└─$ whoami</code></b>
-  </p>
-  <ul>
-    <li><b>[+] ROLE:</b> Cyber Security Student</li>
-    <li><b>[+] FOCUS:</b> Web Security, Penetration Testing, and Vulnerability Research</li>
-    <li><b>[+] STATS:</b> Ranked Top 2% in TryHackMe | Discovered 2 Official CVEs</li>
-    <li><b>[+] TEAM:</b> Actively hunting flags in CTFs with <a href="https://ctftime.org/team/283236">MeowSec</a></li>
-    <li><b>[+] SYSTEM:</b> Kali Linux + Hyprland Window Manager</li>
-    <li><b>[+] STATUS:</b> Basically, I’m an introvert. :)</li>
-  </ul>
+
+  ```
+  ┌──(minato㉿minato500)-[~]
+  └─$ whoami
+          [+] ROLE:   Cyber Security Student
+          [+] FOCUS:  Web Security, Penetration Testing, and Vulnerability Research
+          [+] STATS:  Ranked Top 2% in TryHackMe | Discovered 2 CVEs in opensource projects
+          [+] TEAM:   Actively participating in Capture The Flags with MeowSec
+          [+] SYSTEM: Kali Linux + Hyprland Window Manager
+          [+] STATUS: Basically, I’m an introvert. :)
+  ```
 </div>
 
 <br clear="both">
