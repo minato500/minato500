@@ -20,7 +20,9 @@
 
 ##  Whoami
 
-<img align='right' src="https://tenor.com/bCVbB.gif" width="230">
+<a href="https://tenor.com/view/pikachu-pokemon-hi-gif-21630277" target="_blank">
+  <img align="right" src="https://media1.tenor.com/m/f_ZANr01W5gAAAAC/pikachu-pokemon.gif" width="200" alt="Pikachu Hi" />
+</a>
 
 - Cyber Security Student
 - Exploring in the domain of web security and penetration testing
