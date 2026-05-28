@@ -20,7 +20,7 @@
 
 ##  Whoami
 
-<img align='right' style="border-radius: 50%" src="pikachu.png" width="200">
+<img align='right' style="border-radius: 50%" src="pikachu.png" width="180">
 
 - A Cyber Security Student
 - Interest in domain of web security and penetration testing
@@ -28,6 +28,16 @@
 - Actively Participating in Capture the Flag under [MeowSec](https://ctftime.org/team/283236) team
 - Basically, I’m an introvert. :)
 
+### CVEs Discovered
+
+<div align="center">
+
+|   CVE ID |   Target Application |   Vulnerability Type |
+| :---: | :--- | :--- |
+| ![CVE-2026-33756](https://img.shields.io/badge/CVE--2026--33756-FF0000?style=for-the-badge) | **Saleor Application** | Denial of Service *(Unbounded GraphQL Query Batching)* |
+| ![CVE-2026-27460](https://img.shields.io/badge/CVE--2026--27460-FF0000?style=for-the-badge) | **Recipes Application** | Denial of Service *(via Recipe Import)* |
+
+</div>
 
 ### Certifications
 
