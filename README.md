@@ -56,25 +56,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=minato500&show_icons=true&theme=react&count_private=true&hide_border=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=minato500&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minato500&theme=react-dark" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=minato500&show_icons=true&count_private=true&hide_border=true&title_color=00FF41&text_color=ffffff&icon_color=00FF41&bg_color=0d0d0d" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=minato500&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakNum=ffffff&currStreakLabel=00FF41&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minato500&layout=compact&hide_border=true&title_color=00FF41&text_color=ffffff&bg_color=0d0d0d" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minato500&bg_color=0d0d0d&color=ffffff&line=00FF41&point=ffffff&area=true&hide_border=true" width="97%" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=minato500&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakNum=ffffff&currStreakLabel=00FF41&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minato500&bg_color=0d0d0d&color=ffffff&line=00FF41&point=ffffff&area=true&hide_border=true" width="80%" />
 </p>
 
 ### Skills
