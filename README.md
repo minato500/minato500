@@ -53,7 +53,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,javascript,mysql,mongodb,git,github,bash,linux,docker,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,javascript,php,mysql,mongodb,git,github,bash,linux,docker,jenkins)](https://skillicons.dev)
 
 ---
 
