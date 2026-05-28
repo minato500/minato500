@@ -18,7 +18,9 @@
 
 </div> 
 
-##  About Me
+##  Whoami
+
+<img align='right' src="https://tenor.com/bCVbB.gif" width="230">
 
 - Cyber Security Student
 - Exploring in the domain of web security and penetration testing
@@ -26,9 +28,8 @@
 - Actively Participating in ctf under [MeowSec](https://ctftime.org/team/283236) team
 - Basically, I’m an introvert. :)
 
----
 
-## Certifications
+### Certifications
 
 <div align="center">
 
@@ -42,9 +43,7 @@
 
 </div>
 
----
-
-## GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=minato500&show_icons=true&theme=react&count_private=true&hide_border=true" />
@@ -55,9 +54,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minato500&theme=react-dark" />
 </p>
 
----
-
-## Skills
+### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,javascript,php,mysql,mongodb,git,github,bash,linux,docker,jenkins)](https://skillicons.dev)
 
@@ -66,7 +63,7 @@
 <div align="center">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harish-kumar-n50) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=Firefox)](https://minato500.github.io)
+[![Gmail](https://skillicons.dev/icons?i=wordpress)](https://minato500.github.io)
 
 </div>
 
