@@ -26,12 +26,11 @@
   ```
   ┌──(minato㉿minato500)-[~]
   └─$ whoami
-          [+] ROLE:   Cyber Security Student
-          [+] FOCUS:  Web Security, Penetration Testing, and Vulnerability Research
-          [+] STATS:  Ranked Top 2% in TryHackMe | Discovered 2 CVEs in opensource projects
-          [+] TEAM:   Actively participating in Capture The Flags with MeowSec
-          [+] SYSTEM: Kali Linux + Hyprland Window Manager
-          [+] STATUS: Basically, I’m an introvert. :)
+        Cyber Security Student
+        Web Security, Penetration Testing, and Vulnerability Research
+        Ranked Top 2% in TryHackMe | Discovered 2 CVEs in opensource projects
+        Actively participating in Capture The Flags with MeowSec
+        Basically, I’m an introvert. :)
   ```
 </div>
 
@@ -43,8 +42,8 @@
 
 |      CVE ID      |   Target System |   Attack Vector |   Severity |
 | :--- | :--- | :--- | :---: |
-| [![CVE-2026-33756](https://img.shields.io/badge/CVE--2026--33756-white?style=for-the-badge&logo=openbugbounty&logoColor=black)](https://github.com/saleor/saleor/security/advisories/GHSA-24jw-f244-qfpp) | **Saleor App** | Denial of Service *(GraphQL Query Batching)* | ![High](https://img.shields.io/badge/-HIGH-FF0000?style=for-the-badge&labelColor=0d0d0d) |
-| [![CVE-2026-27460](https://img.shields.io/badge/CVE--2026--27460-white?style=for-the-badge&logo=openbugbounty&logoColor=black)](https://github.com/TandoorRecipes/recipes/security/advisories/GHSA-w8pq-4pwf-r2m8) | **Recipes App** | Denial of Service *(Via Recipe Import)* | ![Moderate](https://img.shields.io/badge/-HIGH-FF0000?style=for-the-badge&labelColor=0d0d0d) |
+| [![CVE-2026-33756](https://img.shields.io/badge/CVE--2026--33756-white?style=for-the-badge&logo=openbugbounty&logoColor=black)](https://github.com/saleor/saleor/security/advisories/GHSA-24jw-f244-qfpp) | **Saleor Application** | Denial of Service *(GraphQL Query Batching)* | ![High](https://img.shields.io/badge/-HIGH-FF0000?style=for-the-badge&labelColor=0d0d0d) |
+| [![CVE-2026-27460](https://img.shields.io/badge/CVE--2026--27460-white?style=for-the-badge&logo=openbugbounty&logoColor=black)](https://github.com/TandoorRecipes/recipes/security/advisories/GHSA-w8pq-4pwf-r2m8) | **Recipes Application** | Denial of Service *(Via Recipe Import)* | ![Moderate](https://img.shields.io/badge/-HIGH-FF0000?style=for-the-badge&labelColor=0d0d0d) |
 
 </div>
 
@@ -66,7 +65,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=minato500&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakNum=ffffff&currStreakLabel=00FF41&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=minato500&bg_color=0d0d0d&color=ffffff&line=00FF41&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=minato500&bg_color=0d0d0d&color=ffffff&line=00FF41&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ### Skills
