@@ -63,13 +63,11 @@
 
 ---
 
-## Contact Me
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harish-kumar-n50"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://minato500.github.io"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=Firefox&logoColor=white" /></a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harish-kumar-n50) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=Firefox)](https://minato500.github.io)
 
----
+</div>
 
 
