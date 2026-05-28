@@ -42,13 +42,6 @@
 
 </div>
 
-
-- Practical Ethical Hacking - TCM Security
-- Practical Web Hacking - TCM Security
-- Practical Bug Bounty - TCM Security
-- Practical API Hacking - TCM Security
-- The Complete Linux and Windows Privilege Escalation - Coursera
-
 ---
 
 ## GitHub Stats
