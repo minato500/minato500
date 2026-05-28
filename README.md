@@ -20,7 +20,7 @@
 
 ##  Whoami
 
-<img align='right' src="pickach.png" width="230">
+<img align='right' src="pikachu.png" width="230">
 
 - Cyber Security Student
 - Exploring in the domain of web security and penetration testing
