@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Penetration Tester](https://img.shields.io/badge/Penetration_Tester-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111927)] [![Security Researcher](https://img.shields.io/badge/Security_Researcher-FF0000?style=for-the-badge&logo=github&logoColor=white)] [![CTF Player](https://img.shields.io/badge/CTF_Player-791abd?style=for-the-badge&logo=hackthebox&logoColor=white)] [![WebApplication Hacker](https://img.shields.io/badge/Web_Application_Hacker-1A1A2E?style=for-the-badge&logo=owasp&logoColor=white)]
+[![Penetration Tester](https://img.shields.io/badge/Penetration_Tester-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)] [![Security Researcher](https://img.shields.io/badge/Security_Researcher-FF0000?style=for-the-badge&logo=github&logoColor=white)] [![CTF Player](https://img.shields.io/badge/CTF_Player-791abd?style=for-the-badge&logo=hackthebox&logoColor=white)] [![WebApplication Hacker](https://img.shields.io/badge/Web_Application_Hacker-1A1A2E?style=for-the-badge&logo=owasp&logoColor=white)]
 
 </div> 
 
@@ -32,10 +32,10 @@
 
 <div align="center">
 
-|   CVE ID |   Target Application |   Vulnerability Type |
-| :---: | :--- | :--- |
-| ![CVE-2026-33756](https://img.shields.io/badge/CVE--2026--33756-FF0000?style=for-the-badge) | **Saleor Application** | Denial of Service *(Unbounded GraphQL Query Batching)* |
-| ![CVE-2026-27460](https://img.shields.io/badge/CVE--2026--27460-FF0000?style=for-the-badge) | **Recipes Application** | Denial of Service *(via Recipe Import)* |
+|      CVE ID      |   Target System |   Attack Vector |   Severity |
+| :--- | :--- | :--- | :---: |
+| [![CVE-2026-33756](https://img.shields.io/badge/CVE--2026--33756-white?style=for-the-badge&logo=openbugbounty&logoColor=black)](https://github.com/saleor/saleor/security/advisories/GHSA-24jw-f244-qfpp) | **Saleor App** | Denial of Service *(GraphQL Query Batching)* | ![High](https://img.shields.io/badge/-HIGH-FF0000?style=for-the-badge&labelColor=0d0d0d) |
+| [![CVE-2026-27460](https://img.shields.io/badge/CVE--2026--27460-white?style=for-the-badge&logo=openbugbounty&logoColor=black)](https://github.com/TandoorRecipes/recipes/security/advisories/GHSA-w8pq-4pwf-r2m8) | **Recipes App** | Denial of Service *(Via Recipe Import)* | ![Moderate](https://img.shields.io/badge/-HIGH-FF0000?style=for-the-badge&labelColor=0d0d0d) |
 
 </div>
 
@@ -56,8 +56,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=minato500&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakNum=ffffff&currStreakLabel=00FF41&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minato500&bg_color=0d0d0d&color=ffffff&line=00FF41&point=ffffff&area=true&hide_border=true" width="80%" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=minato500&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakNum=ffffff&currStreakLabel=00FF41&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=minato500&bg_color=0d0d0d&color=ffffff&line=00FF41&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ### Skills
