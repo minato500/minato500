@@ -30,6 +30,19 @@
 
 ## Certifications
 
+<div align="center">
+
+|   Authority |   Certification Name |   Status |
+| :--- | :--- | :---: |
+| ![TCM Security](https://img.shields.io/badge/TCM_Security-111927?style=for-the-badge&logo=securityscorecard&logoColor=FF0000) |   **Practical Ethical Hacking (PEH)** | ![Passed](https://img.shields.io/badge/STATUS-PASSED-00FF41?style=for-the-badge&labelColor=0d0d0d) |
+| ![TCM Security](https://img.shields.io/badge/TCM_Security-111927?style=for-the-badge&logo=securityscorecard&logoColor=FF0000) |   **Practical Web Hacking (PWH)** | ![Passed](https://img.shields.io/badge/STATUS-PASSED-00FF41?style=for-the-badge&labelColor=0d0d0d) |
+| ![TCM Security](https://img.shields.io/badge/TCM_Security-111927?style=for-the-badge&logo=securityscorecard&logoColor=FF0000) |   **Practical Bug Bounty (PBB)** | ![Passed](https://img.shields.io/badge/STATUS-PASSED-00FF41?style=for-the-badge&labelColor=0d0d0d) |
+| ![TCM Security](https://img.shields.io/badge/TCM_Security-111927?style=for-the-badge&logo=securityscorecard&logoColor=FF0000) |   **Practical API Hacking (PAH)** | ![Passed](https://img.shields.io/badge/STATUS-PASSED-00FF41?style=for-the-badge&labelColor=0d0d0d) |
+| ![Coursera](https://img.shields.io/badge/Coursera-0056B3?style=for-the-badge&logo=coursera&logoColor=white) |   **Linux & Windows Privilege Escalation** | ![Passed](https://img.shields.io/badge/STATUS-PASSED-00FF41?style=for-the-badge&labelColor=0d0d0d) |
+
+</div>
+
+
 - Practical Ethical Hacking - TCM Security
 - Practical Web Hacking - TCM Security
 - Practical Bug Bounty - TCM Security
