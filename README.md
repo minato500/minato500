@@ -43,7 +43,7 @@
 |      CVE ID      |   Target System |   Attack Vector |   Severity |
 | :--- | :--- | :--- | :---: |
 | [![CVE-2026-33756](https://img.shields.io/badge/CVE--2026--33756-white?style=for-the-badge&logo=openbugbounty&logoColor=black)](https://github.com/saleor/saleor/security/advisories/GHSA-24jw-f244-qfpp) | **Saleor Application** | Denial of Service *(GraphQL Query Batching)* | ![High](https://img.shields.io/badge/-HIGH-FF0000?style=for-the-badge&labelColor=0d0d0d) |
-| [![CVE-2026-27460](https://img.shields.io/badge/CVE--2026--27460-white?style=for-the-badge&logo=openbugbounty&logoColor=black)](https://github.com/TandoorRecipes/recipes/security/advisories/GHSA-w8pq-4pwf-r2m8) | **Recipes Application** | Denial of Service *(Via Recipe Import)* | ![Moderate](https://img.shields.io/badge/-HIGH-FF0000?style=for-the-badge&labelColor=0d0d0d) |
+| [![CVE-2026-27460](https://img.shields.io/badge/CVE--2026--27460-white?style=for-the-badge&logo=openbugbounty&logoColor=black)](https://github.com/TandoorRecipes/recipes/security/advisories/GHSA-w8pq-4pwf-r2m8) | **Recipes Application** | Denial of Service *(Via Recipe Import)* | ![Moderate](https://img.shields.io/badge/-Moderate-FF0000?style=for-the-badge&labelColor=0d0d0d) |
 
 </div>
 
