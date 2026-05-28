@@ -27,7 +27,7 @@
   ┌──(minato㉿minato500)-[~]
   └─$ whoami
         Cyber Security Student
-        Web Security, Penetration Testing, and Vulnerability Research
+        Interested Web Security, Penetration Testing, and Vulnerability Research
         Ranked Top 2% in TryHackMe | Discovered 2 CVEs in opensource projects
         Actively participating in Capture The Flags with MeowSec
         Basically, I’m an introvert. :)
@@ -64,8 +64,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=minato500&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakNum=ffffff&currStreakLabel=00FF41&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-  <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=minato500&bg_color=0d0d0d&color=ffffff&line=00FF41&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=minato500&bg_color=0d0d0d&color=ffffff&line=00FF41&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ### Skills
