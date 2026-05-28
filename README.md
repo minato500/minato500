@@ -18,15 +18,25 @@
 
 </div> 
 
-##  Whoami
+## Whomai
 
-<img align='right' style="border-radius: 50%" src="pikachu.png" width="180">
+<div>
+  <img align="right" src="pikachu.png" width="170" alt="Pikachu" />
+  <p>
+    <b><code>┌──(minato㉿minato500)-[~]</code></b><br>
+    <b><code>└─$ whoami</code></b>
+  </p>
+  <ul>
+    <li><b>[+] ROLE:</b> Cyber Security Student</li>
+    <li><b>[+] FOCUS:</b> Web Security, Penetration Testing, and Vulnerability Research</li>
+    <li><b>[+] STATS:</b> Ranked Top 2% in TryHackMe | Discovered 2 Official CVEs</li>
+    <li><b>[+] TEAM:</b> Actively hunting flags in CTFs with <a href="https://ctftime.org/team/283236">MeowSec</a></li>
+    <li><b>[+] SYSTEM:</b> Kali Linux + Hyprland Window Manager</li>
+    <li><b>[+] STATUS:</b> Basically, I’m an introvert. :)</li>
+  </ul>
+</div>
 
-- A Cyber Security Student
-- Interest in domain of web security and penetration testing
-- Top 2 Percentage in TryHackMe and found 2 CVEs
-- Actively Participating in Capture the Flag under [MeowSec](https://ctftime.org/team/283236) team
-- Basically, I’m an introvert. :)
+<br clear="both">
 
 ### CVEs Discovered
 
@@ -57,7 +67,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=minato500&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakNum=ffffff&currStreakLabel=00FF41&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=minato500&bg_color=0d0d0d&color=ffffff&line=00FF41&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=minato500&bg_color=0d0d0d&color=ffffff&line=00FF41&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ### Skills
