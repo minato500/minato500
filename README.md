@@ -22,10 +22,10 @@
 
 <img align='right' style="border-radius: 50%" src="pikachu.png" width="200">
 
-- Cyber Security Student
-- Exploring in the domain of web security and penetration testing
-- Top 5 Percentage in TryHackMe
-- Actively Participating in ctf under [MeowSec](https://ctftime.org/team/283236) team
+- A Cyber Security Student
+- Interest in domain of web security and penetration testing
+- Top 2 Percentage in TryHackMe and found 2 CVEs
+- Actively Participating in Capture the Flag under [MeowSec](https://ctftime.org/team/283236) team
 - Basically, I’m an introvert. :)
 
 
