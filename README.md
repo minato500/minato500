@@ -38,13 +38,6 @@
 
 ---
 
-## Skills
-
-- **Languages:** C, Java
-- **Specialties:** Web Hacking, Penetration testing
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -55,6 +48,12 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=minato500&theme=react-dark" />
 </p>
+
+---
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,javascript,mysql,mongodb,git,github,bash,linux,docker,jenkins)](https://skillicons.dev)
 
 ---
 
