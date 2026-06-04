@@ -80,4 +80,6 @@
 
 </div>
 
-![Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer)
+<center><p>"Protect the world in shadows pikaki..."</p><center>
+
+![Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=FFF9C4&height=120&section=footer)
