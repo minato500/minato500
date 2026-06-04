@@ -80,4 +80,4 @@
 
 </div>
 
-
+![Waving Footer](https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer)
