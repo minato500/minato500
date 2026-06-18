@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Penetration Tester](https://img.shields.io/badge/Penetration_Tester-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)] [![Security Researcher](https://img.shields.io/badge/Security_Researcher-FF0000?style=for-the-badge&logo=github&logoColor=white)] [![CTF Player](https://img.shields.io/badge/CTF_Player-791abd?style=for-the-badge&logo=hackthebox&logoColor=white)] [![WebApplication Hacker](https://img.shields.io/badge/Web_Application_Hacker-1A1A2E?style=for-the-badge&logo=owasp&logoColor=white)]
+[![Penetration Tester](https://img.shields.io/badge/Penetration_Tester-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)] [![Security Researcher](https://img.shields.io/badge/Security_Researcher-FF0000?style=for-the-badge&logo=github&logoColor=white)] [![CTF Player](https://img.shields.io/badge/CTF_Player-791abd?style=for-the-badge&logo=hackthebox&logoColor=white)] [![WebApplication Hacker](https://img.shields.io/badge/DevOps_Engineer-1A1A2E?style=for-the-badge&logo=kubernetes&logoColor=white)]
 
 </div> 
 
