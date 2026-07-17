@@ -69,7 +69,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,javascript,php,mysql,mongodb,git,github,bash,linux,docker,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,javascript,php,mysql,postgres,redis,mongodb,postman,git,github,githubactions,gitlab,bash,linux,aws,docker,jenkins,kubernetes,ansible,terraform,grafana,prometheus)](https://skillicons.dev)
 
 ---
 
